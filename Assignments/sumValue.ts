@@ -12,4 +12,4 @@ console.log("Sum between 1 to "+y+" is "+start)
 
 }
 
-sum (9)
+sum (10)
